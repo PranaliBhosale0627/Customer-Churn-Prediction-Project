@@ -1,7 +1,7 @@
 # Data-Analytics Project of Customer Churn Prediction
 📊 Customer Churn Prediction
 
-This project focuses on predicting customer churn using machine learning techniques. Churn prediction helps businesses identify customers who are likely to discontinue their services, enabling proactive retention strategies.
+This project focuses on predicting customer churn . Churn prediction helps businesses identify customers who are likely to discontinue their services, enabling proactive retention strategies.
 
 ## 🚀 Project Overview
 
